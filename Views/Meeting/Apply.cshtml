@@ -1,0 +1,31 @@
+@model UserInfo
+@{
+    ViewBag.Title = "Müraciət formu";
+}
+
+<h1 class="h4 text-center">Görüşdə iştirak forması</h1>
+
+<form method="post" action="/meeting/apply" novalidate>
+    <div asp-validation-summary="All"></div>
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Ad Soyad</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Phone" class="form-label">Telefon</label>
+        <input asp-for="Phone" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">Email</label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="WillAttend" class="form-label">İştirak Statusu</label>
+        <select asp-for="WillAttend" class="form-select">
+            <option value="">Seçin</option>
+            <option value="true">Bəli, gəlirəm.</option>
+            <option value="false">Xeyr, gəlmirəm.</option>
+        </select>
+    </div>
+    <button class="btn btn-primary" type="submit">Yadda saxla</button>
+</form>
