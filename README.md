@@ -196,6 +196,8 @@ Alternatively, open `MeetingApp.sln` in Visual Studio and run the project.
 
 ---
 
+## Screenshots
+
 | Meeting - Home | Meeting - Apply |
 |:--------------:|:---------------:|
 | <img width="460" alt="Meeting 1" src="https://github.com/fazilmmmdzad/My-Files/blob/main/Meeting1.png" /> | <img width="460" alt="Meeting 2" src="https://github.com/fazilmmmdzad/My-Files/blob/main/Meeting2.png" /> |
