@@ -196,7 +196,7 @@ Alternatively, open `MeetingApp.sln` in Visual Studio and run the project.
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 | Meeting - Home | Meeting - Apply |
 |:--------------:|:---------------:|
