@@ -196,8 +196,14 @@ Alternatively, open `MeetingApp.sln` in Visual Studio and run the project.
 
 ---
 
-<img src="https://github.com/fazilmmmdzad/My-Files/blob/main/Meeting1.png" width="1000"></img>
-<img src="https://github.com/fazilmmmdzad/My-Files/blob/main/Meeting2.png" width="1000"></img>
-<img src="https://github.com/fazilmmmdzad/My-Files/blob/main/Meeting3.png" width="1000"></img>
-<img src="https://github.com/fazilmmmdzad/My-Files/blob/main/Meeting4.png" width="1000"></img>
-<img src="https://github.com/fazilmmmdzad/My-Files/blob/main/Meeting5.png" width="1000"></img>
+| Meeting - Home | Meeting - Apply |
+|:--------------:|:---------------:|
+| <img width="460" alt="Meeting 1" src="https://github.com/fazilmmmdzad/My-Files/blob/main/Meeting1.png" /> | <img width="460" alt="Meeting 2" src="https://github.com/fazilmmmdzad/My-Files/blob/main/Meeting2.png" /> |
+
+| Meeting - List | Meeting - Details |
+|:--------------:|:-----------------:|
+| <img width="460" alt="Meeting 3" src="https://github.com/fazilmmmdzad/My-Files/blob/main/Meeting3.png" /> | <img width="460" alt="Meeting 4" src="https://github.com/fazilmmmdzad/My-Files/blob/main/Meeting4.png" /> |
+
+| Meeting - Thanks |
+|:----------------:|
+| <img width="920" alt="Meeting 5" src="https://github.com/fazilmmmdzad/My-Files/blob/main/Meeting5.png" /> |
